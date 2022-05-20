@@ -38,12 +38,6 @@
 <br />
 
 ---
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [Why you should rethink every piece of conventional wisdom](https://g-tejas.medium.com/why-you-should-rethink-every-piece-of-conventional-wisdom-93f52f95db)
-- [How i saved the Police Force hours of work daily using Artificial Intelligence](https://g-tejas.medium.com/how-i-saved-the-police-force-hours-of-work-daily-using-artificial-intelligence-7134e62b982c)
-
 
 <!-- BLOG-POST-LIST:END -->
 
